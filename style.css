@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: rgb(253, 196, 146);
+}
+h2{
+    color: plum;
+    text-decoration: underline;
+}
+button{
+    background: plum;
+    color: white;
+    font-size: 20px;
+}
